@@ -1,0 +1,12 @@
+.searcForm {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.searchForm input {
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
